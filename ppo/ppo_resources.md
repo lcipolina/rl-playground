@@ -6,6 +6,6 @@
 * Paper:["Benchmarking Deep Reinforcement Learning for Continuous Control"](https://arxiv.org/pdf/1604.06778.pdf) useful for standards adopted
 * Multiprocessing with SB3 - [Tutorial](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/multiprocessing_rl.ipynb#scrollTo=BIedd7Pz9sOs)
 * SB3 - [SubprocVecEnv](https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#subprocvecenv)
-
+* Tutorial on SB3 - [Link](https://www.youtube.com/watch?v=Ikngt0_DXJg&list=PLJct-r1rjHKmqdcLMXHsX8Hp-cvUWMild&index=23) 
 
 
